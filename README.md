@@ -12,7 +12,7 @@ Install dependencies:
 pip install streamlit
 
 __Demo__
-Live app:
+Live app:https://complimentgenerator-dcgsesx4daxt4prgpqvppm.streamlit.app/
 
 __License__
 MIT license
